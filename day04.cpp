@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-	freopen("input/day04.c", "r", stdin);
+	freopen("input/day04", "r", stdin);
 
 	int n,x;
 	vector<int> nums;
